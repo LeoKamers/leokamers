@@ -1,7 +1,7 @@
 ### Ola, seja bem vindo! 👋
 
-### -Me chamo Leonardo, estou cursando o ultimo periodo de Engenharia de Software
-### --E atualmente trabalho como Desenvolvedor Front-End 
+### <Me chamo Leonardo, estou cursando o ultimo periodo de Engenharia de Software/>
+### <E atualmente trabalho como Desenvolvedor Front-End/> 
   
   ##
  
