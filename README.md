@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoKamers&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoKamers&layout=compact&langs_count=7&theme=onedark"/>-->
 </div>
+  Algumas Tecnologias que costumo utilizar em meu dia-a-dia
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="leo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
